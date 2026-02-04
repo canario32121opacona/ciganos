@@ -1,0 +1,1 @@
+npm run dev - como iniciar base de dados
